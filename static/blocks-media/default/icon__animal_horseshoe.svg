@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.00048828125" height="70.00001525878906" viewBox="0 0 70.00048828125 70.00001525878906" fill="none">
+<rect  x="0" y="0" width="70" height="70" rx="2"    fill="#42AFFC" >
+</rect>
+<path fill-rule="evenodd"  fill="rgba(44, 146, 219, 1)"  d="M67.9998 0L2 0C0.895428 0 0 0.895431 0 2L0 68C0 69.1046 0.895428 70 2 70L67.9998 70C69.1044 70 69.9998 69.1046 69.9998 68L69.9998 2C69.9998 0.895431 69.1044 0 67.9998 0ZM0.999998 2C0.999998 1.44772 1.44771 1 2 1L67.9998 1C68.5521 1 68.9998 1.44772 68.9998 2L68.9998 68C68.9998 68.5523 68.5521 69 67.9998 69L2 69C1.44771 69 0.999998 68.5523 0.999998 68L0.999998 2Z">
+</path>
+<path d="M44.0002 40.4105C44.0002 40.4105 46.7002 35.95 46.7002 30.5974L32.3 30.5974C32.3 30.5974 32.3 26.5829 29.6 23.4605C26.9 20.3382 24.2 19 24.2 19L16.9999 26.5829L16.9999 31.0434L24.2 28.8131C27.8 33.2737 26 40.4105 26 40.4105L44.0002 40.4105Z" stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"    fill="#FFFFFF" >
+</path>
+<path    stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"  d="M29.5996 40.4105L29.5996 51">
+</path>
+<path    stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"  d="M40.4053 40.4105L40.4053 51">
+</path>
+<path    stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"  d="M46.6999 30.5973C46.6999 27.921 48.5 25.2447 53 25.2447">
+</path>
+</svg>

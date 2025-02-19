@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12"
+  viewBox="0 0 12 12" fill="none">
+  <g opacity="0.5">
+    <path stroke="rgba(0, 0, 0, 1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" d="M6 10L2 10L2 6">
+    </path>
+    <path stroke="rgba(0, 0, 0, 1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" d="M6 2L10 2L10 6">
+    </path>
+  </g>
+</svg>

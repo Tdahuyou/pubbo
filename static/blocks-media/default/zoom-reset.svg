@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"
+  viewBox="0 0 24 24" fill="none">
+  <path
+    d="M10.5 19C15.1944 19 19 15.1944 19 10.5C19 5.8056 15.1944 2 10.5 2C5.8056 2 2 5.8056 2 10.5C2 15.1944 5.8056 19 10.5 19Z"
+    stroke="rgba(212, 212, 212, 1)" stroke-width="2" stroke-linejoin="round" fill="#D4D4D4">
+  </path>
+  <path stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+    d="M7.50977 8.5078L13.502 8.5">
+  </path>
+  <path stroke="rgba(255, 255, 255, 1.00)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+    d="M7.50977 12.5078L13.502 12.5">
+  </path>
+  <path stroke="rgba(212, 212, 212, 1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+    d="M16.6104 16.6108L20.853 20.8535">
+  </path>
+</svg>
